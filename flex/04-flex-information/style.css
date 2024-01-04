@@ -24,3 +24,22 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Jonathan's Solution */
+body {
+  text-align: center;
+}
+
+.title {
+ margin: 32px;
+}
+
+.plantsGroup { 
+  display:flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.plant {
+  max-width: 200px;
+}
